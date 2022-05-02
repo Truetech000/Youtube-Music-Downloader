@@ -8,10 +8,14 @@ To use the downloader, simply put your name and playlist link into the Playlists
 between the two. You may put up to 5 users into the Playlists.txt file, an example is as follows:
 
 Andrew MyLink.music/mymusic 
+
 Amanda MyLink.music/mymusic 
+
+Erik MyLink.music/mymusic 
+
 Emily MyLink.music/mymusic 
+
 Tiffany MyLink.music/mymusic 
-Erik MyLink.music/mymusic
 
 If the file is empty, the script will tell you. If the file is deleted, it will make a new one for you.
 Feel free to download the example that is provided in the Playlists.txt ;)
