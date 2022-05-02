@@ -7,15 +7,15 @@ _____CONTENTS OF README.TXT_____
 To use the downloader, simply put your name and playlist link into the Playlists.txt file with a space
 between the two. You may put up to 5 users into the Playlists.txt file, an example is as follows:
 
-Andrew MyLink.music/mymusic 
+Andrew MyLink.music/mymusiclinkgoeshere
 
-Amanda MyLink.music/mymusic 
+Amanda MyLink.music/mymusiclinkgoeshere
 
-Erik MyLink.music/mymusic 
+Erik MyLink.music/mymusiclinkgoeshere
 
-Emily MyLink.music/mymusic 
+Emily MyLink.music/mymusiclinkgoeshere
 
-Tiffany MyLink.music/mymusic 
+Tiffany MyLink.music/mymusiclinkgoeshere
 
 If the file is empty, the script will tell you. If the file is deleted, it will make a new one for you.
 Feel free to download the example that is provided in the Playlists.txt ;)
