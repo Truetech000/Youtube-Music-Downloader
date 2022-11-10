@@ -25,5 +25,5 @@ Feel free to download the example that is provided in the Playlists.txt ;)
 Upon first run, this README will be moved to \Resources if you ever need to view it later.
 
 I initially made this script for myself and family but feel that others may find it useful as well, i am by no
-means a professional and just did this on my free time so if you have any complaints, please file them in your
-nearest trash receptical and have a great day...
+means a professional and just did this on my free time. If you have any complaints, please let me know.
+
